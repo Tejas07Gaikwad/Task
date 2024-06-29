@@ -1,0 +1,332 @@
+@media (max-width: 600px) {
+    header nav .navbar{
+        display: flex;
+        justify-content: center;
+        width: 100%;
+
+    }
+    .navbar .imgbx img {
+        width: 100%;
+        height: 100%;
+    }  
+    .navbar .btn button {
+        width: 100%;
+        
+    }
+    .hero-section{
+        height: 100%;
+    }
+    .hero-section .imgbx img{
+        width: 100%;
+        margin-top: 300px;
+        left: 0px;
+        margin-bottom: 30px;
+        position: relative;
+    }
+    .hero-section .content button{
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    font-size: 15px;
+}
+    .digital-mastery .title{
+        margin-top: 700px;
+    }
+    .digital-mastery .content{
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .digital-mastery .content .imgbx img{
+        width: 100%;
+        height: 100%;
+    }
+    .m-service{  
+        height: 100%;
+    }
+    .service button{
+        width: 70%;
+        height: 100%;
+    }
+    .landscape .main-bx{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .landscape .main-bx .imgbx img{
+        position: relative;
+        width: 100%;
+        margin-left: 10px;
+        margin-top: 20px;
+    }
+    .landscape .main-bx .col-bx{
+        position: relative;
+        z-index: 0;
+        margin-left: 10px;
+        height: 100%;
+        width: 100%;
+    }
+    .landscape .main-bx .col-bx .bx{
+        width: 100%;
+        height: 100%;
+    }
+
+    .property .main-bx{
+        display: flex;
+       flex-wrap: wrap;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .property .main-bx .sub-bx{
+        width: 100%;
+        height: 100%;
+    }
+    .driving .main-box{
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .driving .main-box img{
+        width: 100%;
+    }
+    .yp{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 275px;
+        margin: 0 auto;
+    }
+    .rec .main-bx{
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+        height: 100%;
+        margin-left: 10px;
+    
+    }
+    .rec .main-bx .img-bx img{
+        width: 100%;
+    }
+    .que .main-bx {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 100%;
+    }
+    .que .main-bx .li-bx {
+        width: 100%; 
+        height: 100%;
+    }
+    .que .main-bx .dex-bx {
+        width: 100%; 
+        height: 100%;
+    }
+    .cust-form .main-form{
+        width: 100%;
+        height: 100%;
+    }
+    .cust-form .main-form form .content{
+        display: flex;
+        flex-wrap: wrap;
+       
+    }
+    .cust-form .main-form form .info{
+        width: 100%;
+        height: 100%;  
+    }
+    .cust-form .main-form form .info input{
+        width: 100%;
+    }
+    .cust-form .main-form form .info-two input{
+        width: 100%;
+    }
+    .cust-form .main-form form .btn button{
+        width: 100%;
+        margin-left: 10px;
+    }
+    footer .foot .first .info{
+        width: 100%;
+        height: 100%;
+    }
+    footer .foot{
+        display: flex;
+        width: 100%;
+        gap: 30px;
+        height: 100%;
+    }
+    footer .foot .first .add{
+        width: 100%;
+        height: 100%;
+    }
+    footer .foot .first .cont{
+        width: 100%;
+        height: 100%;
+    }
+}
+@media (max-width: 900px) {
+    header nav .navbar{
+        display: flex;
+        justify-content: center;
+        width: 100%;
+
+    }
+    .navbar .imgbx img {
+        width: 100%;
+        height: 100%;
+    }  
+    .navbar .btn button {
+        width: 100%;
+        
+    }
+    .hero-section{
+        height: 100%;
+    }
+    .hero-section .imgbx img{
+        width: 100%;
+        margin-top: 300px;
+        left: 0px;
+        margin-bottom: 30px;
+        position: relative;
+    }
+    .hero-section .content button{
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    font-size: 15px;
+}
+    .digital-mastery .title{
+        margin-top: 700px;
+    }
+    .digital-mastery .content{
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .digital-mastery .content .imgbx img{
+        width: 100%;
+        height: 100%;
+    }
+    .m-service{  
+        height: 100%;
+    }
+    .service button{
+        width: 70%;
+        height: 100%;
+    }
+    .landscape .main-bx{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .landscape .main-bx .imgbx img{
+        position: relative;
+        width: 100%;
+        margin-left: 10px;
+        margin-top: 20px;
+    }
+    .landscape .main-bx .col-bx{
+        position: relative;
+        z-index: 0;
+        margin-left: 10px;
+        height: 100%;
+        width: 100%;
+    }
+    .landscape .main-bx .col-bx .bx{
+        width: 100%;
+        height: 100%;
+    }
+
+    .property .main-bx{
+        display: flex;
+       flex-wrap: wrap;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .property .main-bx .sub-bx{
+        width: 100%;
+        height: 100%;
+    }
+    .driving .main-box{
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .driving .main-box img{
+        width: 100%;
+    }
+    .yp{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 275px;
+        margin: 0 auto;
+    }
+    .rec .main-bx{
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+        height: 100%;
+        margin-left: 10px;
+    
+    }
+    .rec .main-bx .img-bx img{
+        width: 100%;
+    }
+    .que .main-bx {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 100%;
+    }
+    .que .main-bx .li-bx {
+        width: 100%; 
+        height: 100%;
+    }
+    .que .main-bx .dex-bx {
+        width: 100%; 
+        height: 100%;
+    }
+    .cust-form .main-form{
+        width: 100%;
+        height: 100%;
+    }
+    .cust-form .main-form form .content{
+        display: flex;
+        flex-wrap: wrap;
+       
+    }
+    .cust-form .main-form form .info{
+        width: 100%;
+        height: 100%;  
+    }
+    .cust-form .main-form form .info input{
+        width: 100%;
+    }
+    .cust-form .main-form form .info-two input{
+        width: 100%;
+    }
+    .cust-form .main-form form .btn button{
+        width: 100%;
+        margin-left: 10px;
+    }
+    footer .foot .first .info{
+        width: 100%;
+        height: 100%;
+    }
+    footer .foot{
+        display: flex;
+        width: 100%;
+        gap: 30px;
+        height: 100%;
+    }
+    footer .foot .first .add{
+        width: 100%;
+        height: 100%;
+    }
+    footer .foot .first .cont{
+        width: 100%;
+        height: 100%;
+    }
+}
